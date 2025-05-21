@@ -1,5 +1,5 @@
 # Full Stack Practice Workspace
 
-This repository is created to store personal Full Stack Developer training and practice materials.
+This repository stores personal full-stack developer training and practice materials.
 The backend technologies used so far:
-  *Java
+  -Java
