@@ -1,8 +1,8 @@
 package src;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Random;
+import java.util.Scanner;
 
 public class Main {
 
@@ -10,6 +10,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		Random r = new Random();
 		int[] array = r.ints(10, 0, 100).toArray();
+		Scanner scanner = new Scanner(System.in);
 		
 		System.out.println(Arrays.toString(array));
 		
