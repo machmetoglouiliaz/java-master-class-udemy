@@ -3,20 +3,46 @@
 **Instructor:** Tim Buchalka  
 **Course Link:** [Java Masterclass 2025](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
-## Overview
+---
 
-This repository contains my personal training exercises, code samples, and practice materials from the **Udemy Java Masterclass 2025**.  
-It reflects my ongoing progress as I build expertise in Java programming through this comprehensive course.
+## 📌 Overview
 
-## Notes
+This repository contains my personal training exercises, challenges, and practice solutions from the **Udemy Java Masterclass 2025**.  
+It documents hands-on progress through the course, covering both fundamental and advanced Java topics.
 
-- 📌 This code is for educational and practice purposes only.
-- 📌 The repository is not intended for commercial use or redistribution.
-- 📌 All code was written as part of following along with course tutorials and challenges.
+---
 
-## Contact
+## 📂 Structure
 
-If you'd like to connect:
+The repository is organized by challenge topics.
+
+Each folder contains code corresponding to specific course sections and coding challenges.
+
+---
+
+## 💡 Topics Covered
+
+- Autoboxing and unboxing
+- Abstract classes
+- Arrays and ArrayLists
+- Linked lists
+- Composition
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Sorting algorithms
+- Object-Oriented Programming (OOP) principles
+
+---
+
+## ⚠ License & Usage
+
+This repository is intended for **educational and personal development purposes** only.  
+Code should not be redistributed or used for commercial purposes without permission.
+
+---
+
+## 📫 Contact
 
 - **Email:** machmetoglouiliaz@gmail.com  
 - **LinkedIn:** [Mourat Achmet Oglou Iliaz](https://www.linkedin.com/in/maoi)
